@@ -6,8 +6,6 @@ Living in Padua(IT) but commuting every day to Venice.
 
 Student @ ca' foscari's university
 
-My phone: +39 349 05 50 285
-
 European Driving License: type B
 
 <div id="webaddress">
