@@ -32,7 +32,7 @@ Desiderata: I'm searching for really interesting internships outside Italy with 
 
 (2019-2019) Took Italian's State certifications of Junior Engineer in Information Technology with a grade of 180/200.
 
-(2016-2019, 3 years) I took a bachelor's Degree in "Data Science".  I Wrote a thesis about a new programming language oriented on machine learning and deep learning tasks. 
+(2016-2019, 3 years) I took a bachelor's Degree in "Data Science".  I Wrote a thesis about a new programming language oriented on machine learning and deep learning tasks. My grade was 100/110
 
 ## Organizations
 
