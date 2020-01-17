@@ -21,6 +21,10 @@ European Driving License: type B
 
 Desiderata: I'm searching for really interesting internships outside Italy with great companies in the role of  Datascientist and Software Engineer. I would like to work on the summer to not lose classes at university.
 
+Native Italian Speaker
+
+English Speaker(complete professional knowledge)
+
 ## Working Experiences
 
 - (11/2019-03/2019, 4 months) Researcher at Ca' Foscari University in the field of machine learning. From November 2019 to February 2020.
