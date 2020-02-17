@@ -2,9 +2,9 @@
 
 Born in 1997
 
-Living in Padua(IT) but commuting every day to Venice.
+Living in Padua(IT) but commuting every day to Venice(IT).
 
-Student @ ca' foscari's university
+Candidate for a Master's degree in Artificial Intelligence at Ca'Foscari
 
 European Driving License: type B
 
@@ -16,23 +16,33 @@ European Driving License: type B
 | <a href="https://www.linkedin.com/in/riccardobernardi/">on linkedin</a>
 | <a href = "https://pypi.org/user/riccardobernardi/">on PyPI</a>
 | <a href = "https://riccardobernardi97.wordpress.com/">my website</a>
-| <a href = "https://sites.google.com/unive.it/data-mining-group/people">data mining group website</a>
+| <a href = "https://sites.google.com/unive.it/data-mining-group/people">data mining group 
+ website</a>
+| <a href = "http://www.ordineingegneri.ve.it/utenti_3/albo/scheda.php?matricola=B_54">Ordine Ing. Venezia</a>
 </div>
 
-Desiderata: I'm searching for really interesting internships outside Italy with great companies in the role of  Datascientist and Software Engineer. I would like to work on the summer to not lose classes at university.
+Desiderata: I'm searching for really interesting internships outside Italy with great companies with the role of researcher in the area of Graphs, Deep Learning, Machine Learning, in general Artificial Intelligence. I'm also interested in statistics, physics, mathematics, optimization.
 
 Native Italian Speaker
 
 English Speaker(complete professional knowledge)
 
+## Currently
+
+- participating to HASHCODE2020 competition by amazon
+- participating to Copernicus Hackathon by Serco
+- seeking for a PhD in Computer Science
+- writing a scientific paper about machine learning
+- participating to the erasmus programme selections
+
 ## Working Experiences
 
-- (11/2019-03/2019, 4 months) Researcher at Ca' Foscari University in the field of machine learning. From November 2019 to February 2020.
+- (11/2019-03/2020, 4 months) Researcher at Ca' Foscari University in the field of machine learning. From November 2019 to February 2020. Worked in Python on topics of machine learning and parsing.
 - (~2015, 1 month) Internship at Corvallis(Padua) programming in COBOL for the Intesa San Paolo Bank. During summer of the year 2015.
 
 ## Formation
 
-(2019-2021, 2 years) I'm currently attending a Master's Degree in Computer Science about Artificial Intelligence. I'm working on a sperimental thesis for my master degree.
+(2019-2021, 2 years) I'm currently attending a Master's Degree in Computer Science about Artificial Intelligence. I'm working on a sperimental thesis for my master degree on Deep Learning. My current average of grades is 28.5/30(higher is better).
 
 (2019-2019) Took Italian's State certifications of Junior Engineer in Information Technology with a grade of 180/200.
 
@@ -50,13 +60,18 @@ Contributor at Kaggle, PyPI, Github
 
 Participant at DataBeerPadova, CPIT, GDG, PyDataVe, ML-Milan.
 
+Junior Engineer at  "Ordine degli Ingegneri di Venezia".
 
-## Skills,Frameworks and Environments
+Junior Engineer at  "Collegio degli Ingegneri di Venezia".
+
+## Technical Skills
+
+- Good background in mathematics, statistics and information technology.
 
 - Python, involved in Google Revenue Customer Predictions on Kaggle, good in use of frameworks and libraries like: Jupyter Notebook, Numpy, Scipy, ScikitLearn, Pandas, LGBM, XGBoost, LARK, ANTLR and many others. All my thesis are in python.
 - Java: wrote a library to manage graphs with statistical/graphical/algorithmic operations such as Markov Chains to find Pi-matrix(on my github). Use of libraries and frameworks like: Android Studio, swing
-- R / Rstudio: statistical data analysis, tests for: mean, median, variance, concordance, correlation, data visualisation
-- C / C++: concurrency, semaphors, inheritance, meta_programming, type semantics
+- R / Rstudio: statistical data analysis, data science
+- C / C++: concurrency, semaphors, inheritance, meta-programming
 - Full-stack MEAN developer: typescript, javascript, THREE.js, Angular, MongoDB,Express, SocketIO
 - Domain Specific Languages(DSLs) use of ANTLR, LARK
 - other skills, ask please
@@ -73,27 +88,32 @@ Participant at DataBeerPadova, CPIT, GDG, PyDataVe, ML-Milan.
 
 - Winner of a scholarship in Machine Learning
 - Second Place Hackathon P&G Gillette, Milan
-- Third Place PwC Hackathon Nyrio One
+- Third Place PwC Hackathon Nyrio One held in Venice
+- Second place at the Copernicus Hackathon about exploitation of satellite images
 
 ## Projects
 
 - MLL-machine learning language : https://github.com/riccardobernardi/MLL-machine-learning-language
-- MLL article on Medium: https://medium.com/@machine.learning.language/mll-machine-learning-language-f4deacf8d2a?source=friends_link&sk=1d57f46e6ea35f02e92b520f83adc487
 - Restaurant Management Software: https://github.com/riccardobernardi/TAW-project
 - Java library to manage operations on complex graphs using some notions of statistics such as the markovian chain and the steady state distribution. It permits to insert texts and learn the patterns, after that you can forecast the next words you will write on an interactive console. It also provides visualization of graph. https://github.com/riccardobernardi/graphLib
 - other projects on my github page
 
+## Publications
+
+- MLL article on Medium: https://medium.com/@machine.learning.language/mll-machine-learning-language-f4deacf8d2a?source=friends_link&sk=1d57f46e6ea35f02e92b520f83adc487
+
 ## Soft Skills
 
-- Love reading
+- Love reading both in English, italian or latin
+- ambitious
 - determined and resilient
 - long-life-learning philosophy
 - Ready to travel
-- Teamwork
+- Able to work under pressure and in stressful situations
 - Multi-tasking, working on different projects at the same time
-- Well-organized with skills in agile methodologies
+- Well-organized with skills in agile methodologies and PM
 - very competitive, I partecipate to many hackathons
 
 ## My Passion
 
-Developer since I was ~13 years old moved by passion. I started with Python,VB,C# watching online videos. I'm really passionate about Python and MachineLearning/DeepLearning. To achieve the best education, I decided to study at ca 'foscari because of the innovative nature of its courses(ranked third best university in Information technology by censis 2019).  I'm very competitive so I partecipate frequently to competitions/ hackathons on kaggle and other platform or in the real world.
+Developer since I was ~13 years old moved by passion. I started with Python,VB,C# watching online videos. I'm really passionate about Python and MachineLearning/DeepLearning but I also seek for challenges in other fields such as pure physics and pure mathematics. To achieve the best education, I decided to study at ca 'foscari because of the innovative nature of its courses(ranked third best university in Information technology by censis 2019).  I'm very competitive so I partecipate frequently to competitions/ hackathons on kaggle and other platform or in the real world.
