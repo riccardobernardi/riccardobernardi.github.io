@@ -30,7 +30,6 @@ English Speaker(complete professional knowledge)
 ## Currently
 
 - participating to HASHCODE2020 competition by amazon
-- participating to Copernicus Hackathon by Serco
 - seeking for a PhD in Computer Science
 - writing a scientific paper about machine learning
 - participating to the erasmus programme selections
