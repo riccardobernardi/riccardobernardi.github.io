@@ -82,6 +82,7 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - ECDL, certified by AICA
 - 2 certifications on MATLAB in the field of deep learning
 - Scientific Programming with Python by University of Padua
+- Machine Learning on Udemy, by Kirill Eremko
 
 ## Awards
 
