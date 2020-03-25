@@ -66,14 +66,14 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 ## Technical Skills
 
 - Good background in mathematics, statistics and information technology.
-
-- Python, involved in Google Revenue Customer Predictions on Kaggle, good in use of frameworks and libraries like: Jupyter Notebook, Numpy, Scipy, ScikitLearn, Pandas, LGBM, XGBoost, LARK, ANTLR and many others. All my thesis are in python.
+- Python: involved in Google Revenue Customer Predictions on Kaggle, good in use of frameworks and libraries like: Jupyter Notebook, Numpy, Scipy, ScikitLearn, Pandas, LGBM, XGBoost and many others.
 - Java: wrote a library to manage graphs with statistical/graphical/algorithmic operations such as Markov Chains to find Pi-matrix(on my github). Use of libraries and frameworks like: Android Studio, swing
 - R / Rstudio: statistical data analysis, data science
-- C / C++: concurrency, semaphors, inheritance, meta-programming
-- Full-stack MEAN developer: typescript, javascript, THREE.js, Angular, MongoDB,Express, SocketIO
-- Domain Specific Languages(DSLs) use of ANTLR, LARK
-- other skills, ask please
+- C / C++: concurrency, semaphors, inheritance, meta-programming, OOP
+- Full-stack MEAN developer: typescript, javascript, THREE.js, Angular, MongoDB,Express, SocketIO, NodeJS, OAuth.
+- Domain Specific Languages(DSLs) Engineering through the use of ANTLR and LARK
+- Database experience with PostgreSQL, MongoDB, RedisDB, DynamoDB
+- other skills available such as php, SQL, Html, css (in general ask please)
 
 ## Certifications
 
@@ -96,11 +96,15 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - MLL-machine learning language : https://github.com/riccardobernardi/MLL-machine-learning-language
 - Restaurant Management Software: https://github.com/riccardobernardi/TAW-project
 - Java library to manage operations on complex graphs using some notions of statistics such as the markovian chain and the steady state distribution. It permits to insert texts and learn the patterns, after that you can forecast the next words you will write on an interactive console. It also provides visualization of graph. https://github.com/riccardobernardi/graphLib
+- antiplagiarism library: https://pypi.org/project/antiplagiarism/
+- pygraham library: https://pypi.org/project/pygraham/
 - other projects on my github page
 
 ## Publications
 
 - MLL article on Medium: https://medium.com/@machine.learning.language/mll-machine-learning-language-f4deacf8d2a?source=friends_link&sk=1d57f46e6ea35f02e92b520f83adc487
+- Antiplagiarism Library: https://medium.com/@machine.learning.language/anti-plagiarism-python-e5f259eb3f46
+- Pygraham Library: https://medium.com/@machine.learning.language/pygraham-functional-methods-in-python-d5921208416a
 
 ## Soft Skills
 
