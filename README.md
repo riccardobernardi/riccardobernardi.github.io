@@ -17,11 +17,13 @@ Some important links here below:
 | <a href="https://www.kaggle.com/bernifix">on kaggle</a>
 | <a href="https://www.linkedin.com/in/riccardobernardi/">on linkedin</a>
 | <a href = "https://pypi.org/user/riccardobernardi/">on PyPI</a>
-| <a href = "https://riccardobernardi97.wordpress.com/">my website</a>
+<!--| <a href = "https://riccardobernardi97.wordpress.com/">my website</a> -->
+| <a href = "https://riccardobernardi97.github.io/">my website</a>
 | <a href = "https://sites.google.com/unive.it/data-mining-group/people">data mining group 
  website</a>
 | <a href = "http://www.ordineingegneri.ve.it/utenti_3/albo/scheda.php?matricola=B_54">Ordine Ing. Venezia</a>
 </div>
+
 
 Desiderata: I'm searching for really interesting internships outside Italy with great companies with the role of researcher in the area of Graphs, Deep Learning, Machine Learning, in general Artificial Intelligence. I'm also interested in statistics, physics, mathematics, optimization.
 
