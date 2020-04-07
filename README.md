@@ -4,9 +4,11 @@ Born in 1997
 
 Living in Padua(IT) but commuting every day to Venice(IT).
 
-Candidate for a Master's degree in Artificial Intelligence at Ca'Foscari
+Attending Master's degree in Artificial Intelligence at Ca'Foscari
 
 European Driving License: type B
+
+Some important links here below:
 
 <div id="webaddress">
 <a href="riccardo.bernardi@rocketmail.com">personal email address</a>
@@ -23,16 +25,11 @@ European Driving License: type B
 
 Desiderata: I'm searching for really interesting internships outside Italy with great companies with the role of researcher in the area of Graphs, Deep Learning, Machine Learning, in general Artificial Intelligence. I'm also interested in statistics, physics, mathematics, optimization.
 
-Native Italian Speaker
-
-English Speaker(complete professional knowledge)
-
 ## Currently
 
-- participating to HASHCODE2020 competition by amazon
 - seeking for a PhD in Computer Science
-- writing a scientific paper about machine learning
-- participating to the erasmus programme selections
+- writing a scientific paper about machine learning and domain specific language engineering
+- writing a scientific paper about deep learning in cultural heritage
 
 ## Working Experiences
 
@@ -46,6 +43,8 @@ English Speaker(complete professional knowledge)
 (2019-2019) Took Italian's State certifications of Junior Engineer in Information Technology with a grade of 180/200.
 
 (2016-2019, 3 years) I took a bachelor's Degree in "Data Science".  I Wrote a thesis about a new programming language oriented on machine learning and deep learning tasks. My grade was 100/110
+
+(2012-2016, 5 years) Traditional Scientific High School, studied biology, latin, Italian, English, history, mathematics, physics.
 
 ## Organizations
 
@@ -75,6 +74,14 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - Database experience with PostgreSQL, MongoDB, RedisDB, DynamoDB
 - other skills available such as php, SQL, Html, css (in general ask please)
 
+## Languages
+
+- Italian - mother tongue
+- English - complete professional knowledge, my master's degree is in english and I will take 1 year abroad, I will take as soon as possible a C1 IELTS certification
+- Spanish - basic knowledge, scholastic
+- German - basic knowledge, scholastic
+- Latin - scholastic
+
 ## Certifications
 
 - English B2, certified by my university
@@ -90,6 +97,8 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - Second Place Hackathon P&G Gillette, Milan
 - Third Place PwC Hackathon Nyrio One held in Venice
 - Second place at the Copernicus Hackathon about exploitation of satellite images
+- Winner of Erasmus+ in the Nertherlands at Eindhoven University of Technology, ranked 70th best university worldwide
+- Winner of SEMP programme in Switzerland at ZHAW University of Engineering, ranked 74th best university worldwide
 
 ## Projects
 
@@ -98,7 +107,8 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - Java library to manage operations on complex graphs using some notions of statistics such as the markovian chain and the steady state distribution. It permits to insert texts and learn the patterns, after that you can forecast the next words you will write on an interactive console. It also provides visualization of graph. https://github.com/riccardobernardi/graphLib
 - antiplagiarism library: https://pypi.org/project/antiplagiarism/
 - pygraham library: https://pypi.org/project/pygraham/
-- other projects on my github page
+- distributed sudoku solver over a cluster of 4 raspberry pi: https://github.com/riccardobernardi/distributed-sudoku-solver
+- other projects on my github page.
 
 ## Publications
 
