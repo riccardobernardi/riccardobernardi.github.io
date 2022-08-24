@@ -29,22 +29,6 @@ Desiderata: I'm searching for really interesting internships outside Italy with 
 
 (2012-2016, 5 years) Traditional Scientific High School, studied biology, latin, Italian, English, history, mathematics, physics.
 
-## Organizations
-
-Member of Data-Mining Group @ Ca' Foscari University of Venice
-
-Member of TVML study group about Machine learning
-
-Speaker at linuxDay by FSUG padova
-
-Contributor at Kaggle, PyPI, Github
-
-Participant at DataBeerPadova, CPIT, GDG, PyDataVe, ML-Milan.
-
-Junior Engineer at  "Ordine degli Ingegneri di Venezia".
-
-Junior Engineer at  "Collegio degli Ingegneri di Venezia".
-
 ## Technical Skills
 
 - Good background in mathematics, statistics and information technology.
@@ -56,14 +40,6 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - Domain Specific Languages(DSLs) Engineering through the use of ANTLR and LARK
 - Database experience with PostgreSQL, MongoDB, RedisDB, DynamoDB
 - other skills available such as php, SQL, Html, css (in general ask please)
-
-## Languages
-
-- Italian - mother tongue
-- English - complete professional knowledge, my master's degree is in english and I will take 1 year abroad, I will take as soon as possible a C1 IELTS certification
-- Spanish - basic knowledge, scholastic
-- German - basic knowledge, scholastic
-- Latin - scholastic
 
 ## Certifications
 
@@ -92,12 +68,6 @@ Junior Engineer at  "Collegio degli Ingegneri di Venezia".
 - pygraham library: https://pypi.org/project/pygraham/
 - distributed sudoku solver over a cluster of 4 raspberry pi: https://github.com/riccardobernardi/distributed-sudoku-solver
 - other projects on my github page.
-
-## Publications
-
-- MLL article on Medium: https://medium.com/@machine.learning.language/mll-machine-learning-language-f4deacf8d2a?source=friends_link&sk=1d57f46e6ea35f02e92b520f83adc487
-- Antiplagiarism Library: https://medium.com/@machine.learning.language/anti-plagiarism-python-e5f259eb3f46
-- Pygraham Library: https://medium.com/@machine.learning.language/pygraham-functional-methods-in-python-d5921208416a
 
 ## Soft Skills
 
